@@ -1,0 +1,23 @@
+[
+    {
+        "title": "happy codding",
+        "author": "amnakh",
+        "year": "2024",
+        "genre": "sllybus",
+        "read": true
+    },
+    {
+        "title": "new start",
+        "author": "amnaff",
+        "year": "2025",
+        "genre": "family",
+        "read": false
+    },
+    {
+        "title": "growth",
+        "author": "amna123",
+        "year": "2010",
+        "genre": "science",
+        "read": false
+    }
+]
